@@ -468,6 +468,11 @@ margin: 0 auto;
     color:#8e8f99 ;
 
   }
+  
+
+
+
+  
   .icons-five-section:hover{
     border-color: #404bbf ;
     color:#404bbf ;
@@ -523,7 +528,8 @@ margin: 0 auto;
     display: flex;
     align-items: center;
     align-content: center;
-
+    
+  
   }
   .footer-link:hover{
     background-color: #31d0aa;
@@ -541,4 +547,8 @@ margin: 0 auto;
 
   .visually-hidden{
     display: none;
+  }
+
+  h2{
+    margin-bottom: 72px;
   }
