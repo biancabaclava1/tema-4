@@ -450,7 +450,7 @@ max-width: 496px;
   }
 
   .customer-item{
-    width: calc((100% - 120px) / 6);
+    width: calc((100% - 120px) / 6) ;
     height: 88px;
 
   }
@@ -468,9 +468,11 @@ max-width: 496px;
   }
   .icons-five-section:hover{
     border-color: #404bbf ;
+    color:#404bbf ;
   }
   .icons-five-section:focus{
     border-color: #404bbf;
+    color: #404bbf;
   }
 
   .svg-five{
