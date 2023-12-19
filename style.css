@@ -96,6 +96,7 @@ text-align: center;
 letter-spacing: 0.02em;
 color: #ffffff;
 max-width: 496px;
+margin: 0 auto;
 
 
 }
@@ -116,6 +117,7 @@ max-width: 496px;
     background-color: #4d5ae5;
     border-radius: 4px;
     cursor: pointer;
+    margin: 0 auto;
 }
 .order-button:hover{
     background-color: #404bbf;
