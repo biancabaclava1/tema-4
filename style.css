@@ -483,6 +483,7 @@ max-width: 496px;
   .footer-div{
     display: flex;
     align-items: baseline;
+    margin-right: 120px;
 
   }
 
@@ -532,6 +533,8 @@ max-width: 496px;
 
   .footer-svg-icons-social{
     fill:  #f4f4f4fd;
+    width: 24;
+    height: 24;
   }
 
   .visually-hidden{
